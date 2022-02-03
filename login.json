@@ -1,0 +1,35 @@
+[
+    {
+        "id": 1,
+        "fName": "John",
+        "lName": "Doe",
+        "email": "j@gmail.com",
+        "mobile": "9826912345",
+        "userName": "john123",
+        "password": "john@123",
+        "status": "active",
+        "role": "admin"
+    },
+    {
+        "id": 2,
+        "fName": "Rose",
+        "lName": "Tailor",
+        "email": "r@gmail.com",
+        "mobile": "9826965478",
+        "userName": "rose123",
+        "password": "rose@123",
+        "status": "deactive",
+        "role": "user"
+    },
+    {
+        "id": 3,
+        "fName": "Virat",
+        "lName": "Kohli",
+        "email": "v@gmail.com",
+        "mobile": "7894561231",
+        "userName": "virat123",
+        "password": "virat@123",
+        "status": "active",
+        "role": "user"
+    }
+]
